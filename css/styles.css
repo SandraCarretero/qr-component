@@ -32,6 +32,7 @@ body{
     border-radius: 1rem;
     padding: 1rem;
     text-align: center;
+    box-shadow: 0px 7px 20px 0px #95959563;
 }
 
 .card-image{
